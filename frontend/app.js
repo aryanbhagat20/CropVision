@@ -2,7 +2,7 @@
    CropVision — App Logic
    ═══════════════════════════════════════════ */
 
-const API = "http://127.0.0.1:8000";
+const API = "https://cropvision-079t.onrender.com";
 
 let statsData = null;
 
